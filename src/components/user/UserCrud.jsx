@@ -7,7 +7,7 @@ const headerProps = {
     title: 'Usuários',
     subtitle: 'Cadastro de usuário: , Incluir, Listar, Alterar e Excluir'
 }
-const baseUrl = 'http://localhost:3001/users'
+const baseUrl = 'http://18.228.152.25/user'
 const initialStage = {
     user: {name:'', email:''},
     list:[]
